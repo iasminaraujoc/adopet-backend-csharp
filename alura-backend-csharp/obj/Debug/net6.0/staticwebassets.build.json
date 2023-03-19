@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KFOyTJYhDYbdvk4Hzpcjiv1lB+1Ln6FOssvBZ5/1eVk=",
+  "Source": "alura-backend-csharp",
+  "BasePath": "_content/alura-backend-csharp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
